@@ -1,5 +1,7 @@
 @import './nullstyle.scss';
 
 body {
+    display: flex;
     background-color: red;
+    background-image: url('../assets/img/web.jpeg');
 }
